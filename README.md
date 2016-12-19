@@ -315,3 +315,28 @@ OSPF协议的基本特点
   <th>TCP</th>
 </tr>
 </table>
+####常用的熟知端口号
+<table>
+  <tr>
+    <th>应用程序</th>
+    <th>FTP</th>
+    <th>TELNET</th>
+    <th>SMTP</th>
+    <th>DNS</th>
+    <th>TFTP</th>
+    <th>HTTP</th>
+    <th>SNMP</th>
+    <th>SNMP(trap)</th>
+  </tr>
+  <tr>
+    <th>熟知端口号</th>
+    <th>21</th>
+    <th>23</th>
+    <th>25</th>
+    <th>53</th>
+    <th>69</th>
+    <th>80</th>
+    <th>161</th>
+    <th>162</th>
+  </tr>
+</table>
